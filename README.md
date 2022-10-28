@@ -1,2 +1,6 @@
-# Java-Projects
-Programs that I created using Java 
+# Lucky - 9
+
+## Card game via console terminal
+
+### C++
+
